@@ -1,0 +1,28 @@
+{
+  "name": "homebridge-nhc",
+  "version": "1.0.0",
+  "description": "Homebridge plugin for Niko Home Control",
+  "license": "MIT",
+  "keywords": [
+    "homebridge-plugin",
+    "Niko",
+    "Niko Home",
+    "Niko Home Control"
+  ],
+  "homepage": "https://github.com/juliensantos87/homebridge-nhc#readme",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/juliensantos87/homebridge-nhc.git"
+  },
+  "bugs": {
+    "url": "http://github.com/juliensantos87/homebridge-nhc/issues"
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "dependencies": {
+    "niko-home-control": "0.4.3",
+    "homebridge": ">=0.2.0"
+  }
+}
