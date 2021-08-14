@@ -1,6 +1,6 @@
 {
   "name": "homebridge-nhc",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Homebridge plugin for Niko Home Control",
   "license": "MIT",
   "keywords": [
